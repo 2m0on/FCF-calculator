@@ -110,7 +110,7 @@ const App = () => {
             <div className="bg-white border border-slate-200 rounded-xl shadow-sm p-6">
               <h2 className="text-lg font-semibold text-slate-800 mb-6 flex items-center gap-2">
                 <Building2 className="w-5 h-5 text-slate-400" />
-                Company Parameters
+                Company Balance Sheet
               </h2>
               
               <div className="space-y-5">
