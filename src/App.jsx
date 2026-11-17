@@ -95,8 +95,8 @@ const App = () => {
             <Calculator className="w-6 h-6" />
           </div>
           <div>
-            <h1 className="text-2xl font-bold text-slate-900 tracking-tight">20-Year DCF Calculator</h1>
-            <p className="text-slate-500 text-sm">Discounted Cash Flow Intrinsic Value Modeler</p>
+            <h1 className="text-2xl font-bold text-slate-900 tracking-tight">20-Years DFCF Calculator</h1>
+            <p className="text-slate-500 text-sm">Discounted Free Cash Flow Calculator by W.K </p>
           </div>
         </header>
 
